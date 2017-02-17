@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Hennepin Technical College Cafeteria</title>
+</head>
+<body>
+<header> 
+  <h1>Hennepin Technical College Cafeteria</h1>
+</header>
+<nav>
+<a href="menu.html">Menu</a> &nbsp;
+<a href="events.html">Events</a> &nbsp;
+<a href="gallery.html">Gallery</a> &nbsp;
+<a href="contact.html">Contact</a> &nbsp;
+</nav>
+<main>
+<h2>WELCOME</h2>
+
+<p>HTC Cafeteria Brooklyn Park, is the perfect place for students dining.<br>
+  Everyone can choose their favorite foods, and our clean, cheerful dining <br>
+  room is ideal for sharing time and discussing the day with your friends and <br> 
+  colleagues.There are good chairs for everyone, and closer to the restrooms.<br>
+  The restaurant is available every time during the campus hours. Students can <br>
+  choose from a wide array of appetizers, entrees, desserts, and beverages, to<br>
+  create the right formula for their function. We look forward to working with <br>
+  you and planning your upcoming event. 
+ </p>
+<h3>Details</h3>
+<ul>
+  <li>Professional Event Planner on staff and students</li>
+  <li>Select from Buffet stations or Individually plated entrees</li>
+  <li>Over 800 square feet of dining space</li>
+  <li>Wi-Fi access </li>
+  <li>Contemporary atmosphere with nice view of east side</li>
+  <li>Good and fast service</li>
+</ul>
+</main>
+<footer>
+<small><i>Copyright &copy; VedasteRurangwa.net</i></small>
+</footer>
+</body>
+</html>
